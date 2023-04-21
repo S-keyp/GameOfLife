@@ -34,6 +34,7 @@ public class GameOfLife {
 		menu.add(startStop,BorderLayout.CENTER);
 		
 		
+		// test new branch
 		// JButton tchoin = new JButton("tchoin");
 		// tchoin.setBackground(Color.GREEN);
 		// menu.add(tchoin,BorderLayout.CENTER);
